@@ -1,0 +1,24 @@
+.head{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    
+}
+
+
+
+
+
+.item{
+    margin-left: 500px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cancel{
+    margin-right: 150px;
+}
+.totalbox{
+   margin-left: 500px;
+   margin-top: 10px;
+}

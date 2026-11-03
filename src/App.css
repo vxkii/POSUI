@@ -1,0 +1,14 @@
+.App {
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #ffffff;
+  padding: 30px;            /* more space */
+  display: block;
+  color: #333;
+  /* max-width: 1200px;        limits width for big screens */
+  margin: 0 auto;           /* center the content area */
+}
+
